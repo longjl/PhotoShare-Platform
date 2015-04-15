@@ -1,2 +1,2 @@
-# PhotoShare-Web
-PhotoShare Web
+# PhotoShare-Platform
+PhotoShare Platform
